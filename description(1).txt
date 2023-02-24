@@ -1,0 +1,3 @@
+I have developed shopify plugin using React.
+This is react-notifi page.
+I used Notificontext module.

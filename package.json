@@ -1,0 +1,23 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "main": "web/index.js",
+  "license": "UNLICENSED",
+  "scripts": {
+    "shopify": "shopify",
+    "build": "shopify app build",
+    "dev": "shopify app dev",
+    "info": "shopify app info",
+    "generate": "shopify app generate",
+    "deploy": "shopify app deploy"
+  },
+  "dependencies": {
+    "@notifi-network/notifi-react-card": "^0.42.1",
+    "@shopify/app": "3.23.0",
+    "@shopify/cli": "3.23.0"
+  },
+  "author": "Snowman",
+  "devDependencies": {
+    "@notifi-network/notifi-core": "^0.42.1"
+  }
+}
